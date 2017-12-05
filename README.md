@@ -6,4 +6,8 @@ new line 2017
 
 test
 
+new line
+
 wow test
+
+patch baru
